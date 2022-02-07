@@ -1,0 +1,43 @@
+.strike{
+    text-decoration: line-through;
+    color: green;
+}
+.normal{
+    text-decoration: none;
+}
+.TodoItem{
+    color: blue;
+    background-color: wheat;
+    height: 40px;
+    padding: 5px;
+    width:360px;
+    margin-left: 34%;
+    border: 0.5px solid blueviolet;
+}
+.input_box{
+    background-color: yellow;
+    padding: 10px;
+    font-size: 25px;
+    border: none;
+    margin-bottom: 15px;
+}
+.ul{
+    list-style-type: none;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px 0px 10px 10px;
+}
+.icon{
+    height: 20px;
+    width: 20px;
+}
+.chekbox{
+    height: 25px;
+    width: 25px;
+}
+.edit_box{
+  padding: 8px;
+  border: none;
+  color: red;
+  margin-right: 1px;
+}
